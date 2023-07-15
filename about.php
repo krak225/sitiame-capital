@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col col-xs-12">
                         <div class="title-breadcrumb">
-                            <h2>A propose de nous</h2>
+                            <h2>A PROPOS DE NOUS</h2>
                             <ol class="breadcrumb">
                                 <li><a href="index.php">Accueil</a></li>
                                 <li>A propos de nous</li>
@@ -25,50 +25,30 @@
                 <div class="row">
                     <div class="col col-md-8 col-md-push-4">
                         <div class="service-single-content">
-                            <div>
+                            <!--div>
                                 <img src="assets/images/service-single-info.jpg" alt>
-                            </div>
-                            <div class="title">
-                                <h3>Oil and lubricant</h3>
-                                <div class="download">
-                                    <a href="#"><i class="fa fa-file-word-o"></i> Download Doc</a>
-                                    <a href="#"><i class="fa fa-file-pdf-o"></i> Download PDF</a>
-                                </div>
+                            </div-->
+                            <div class="details">
+                                <p>En tant que groupe d’experts et investisseurs de contrôle engagés pour une Afrique durable, nous pensons que nous avons la responsabilité d'offrir une valeur élevée à toutes nos parties prenantes, y compris nos clients conseils, les sociétés de notre portefeuille, leurs employés et les communautés plus larges qu'elles servent.</p>
                             </div>
                             <div class="details">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!</p>
-                                <ul>
-                                    <li><i class="fa fa-plus"></i> Mollis Pharetra Euismod Tellus Fermentum</li>
-                                    <li><i class="fa fa-plus"></i> Vulputate sem Pellentesque Adipiscing</li>
-                                    <li><i class="fa fa-plus"></i> Cursus sit Tortor Ligula Nullam</li>
-                                </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!</p>
-                                <h4>Sem Aenean Pharetra</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi iste accusamus voluptates, aliquid blanditiis ut. Provident vitae ullam quibusdam quae libero dolores, ratione vel cupiditate sunt amet? Sit, incidunt, laboriosam!</p>
-                                <a href="#" class="theme-btn-s2">Contact us</a>
+                                <h4>1. Responsabilité</h4>
+                                <p>Nous sommes responsables envers nos prestations de qualité et investissements visant à atteindre une performance financière supérieure grâce à une transformation mesurable et durable de l'entreprise.</p>
+                                <h4>2. L'esprit d'entreprise</h4>
+                                <p>Notre équipe d’experts et d’entrepreneurs est dévouée de l’accompagnement et le soutien de nos clients et des entrepreneurs en portefeuille. Nous croyons que la détermination, la ténacité et la créativité sont essentielles pour des entreprises prospères et durables. C'est pourquoi nous investissons généralement dans des entreprises dirigées par des fondateurs et pourquoi de nombreux membres de notre équipe sont eux-mêmes des entrepreneurs et des experts reconnus. Cet état d'esprit entrepreneurial nous donne un avantage unique lorsqu'il s'agit d'identifier des opportunités d'investissement.</p>
+                                <h4>3.	Respect mutuel & ambition</h4>
+                                <p>Les bons partenariats reposent sur une vision partagée et le respect mutuel. Ce sont les pierres angulaires de notre travail et de toutes nos interactions, que ce soit avec nos investisseurs, nos sociétés émettrices ou nos propres employés. Nous favorisons la transparence dans tous les aspects de nos activités</p>
                             </div>
                         </div> <!-- end service content -->
                     </div> <!-- end col -->
                     
                     <div class="col col-md-4 col-md-pull-8">
                         <div class="service-single-sidebar">
-                            <div class="services-link-widget widget">
-                                <ul>
-                                    <li><a href="#">Power and energy</a></li>
-                                    <li class="current"><a href="oil-lubricant.html">Oil and lubricant</a></li>
-                                    <li><a href="meterial-engineering.html">Meterial engineering</a></li>
-                                    <li><a href="mechanical-engineering.html">Mechanical engineering</a></li>
-                                    <li><a href="chemical-research.html">Chemical research</a></li>
-                                    <li><a href="alternate-energy.html">Alternate energy</a></li>
-                                    <li><a href="agricultural-processing.html">Agricultural processing</a></li>
-                                </ul>
+                            <div class="services-link-widget widget" style="padding-top: 0px;">
+                                <img src="assets/images/about-s3-pic.jpg" style="width: 100%;"/>
                             </div>
                             <div class="download-brocher-widget widget">
-                                <a href="#"><i class="fa fa-file-pdf-o"></i> Download brochure</a>
-                            </div>
-                            <div class="widget contact-widget">
-                                <h3>Contact us for help?</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste assumenda unde, ut.Iste assumenda unde, ut.</p>
+                                <a href="#"><i class="fa fa-user"></i> LE DIRECTEUR GENERAL</a>
                             </div>
                         </div>
                     </div>

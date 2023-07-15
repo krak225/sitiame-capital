@@ -108,8 +108,10 @@
                             <li class="menu-item-has-children">
                                 <a href="#">Nos services</a>
                                 <ul class="sub-menu">
-                                    <li><a href="#">Conseils stratégiques et gestion de projets</a></li>
-                                    <li><a href="#">Investissement</a></li>
+                                    <li><a href="conseils.php">Conseils stratégiques</a></li>
+                                    <li><a href="fonds.php">Levée de fonds</a></li>
+                                    <li><a href="#">Gestion de projets</a></li>
+                                    <li><a href="investissements.php">Investissements</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item">
@@ -129,8 +131,8 @@
                                     <li><a href="#">Galérie vidéo</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Nos formulaires</a></li>
-                            <li><a href="contact.php">Nous contacter</a></li>
+                            <li><a href="formulaires.php">Nos formulaires</a></li>
+                            <li><a href="contacts.php">Nous contacter</a></li>
                         </ul>
                     </div><!-- end of nav-collapse -->
                    
