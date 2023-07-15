@@ -89,7 +89,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href=""><img src="assets/images/logo.png" alt style="height: 30px; margin-top:10px;"></a>
+                        <a class="navbar-brand" href="index.php"><img src="assets/images/logo.png" alt style="height: 30px; margin-top:10px;"></a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse navbar-right navigation-holder">
                         <button class="close-navbar"><i class="fa fa-close"></i></button>
